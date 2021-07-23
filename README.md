@@ -7,9 +7,9 @@ I'm currently active in contributing <a href="https://github.com/anthonykid">@an
 - 🌱 I’m currently learning about cloud technology for mobile apps (multi-platform)
 - 💬 Feel free to ask me about mobile developing (I'm using Flutter)
 - 📫 How to reach me:
-  ⚡ Instagram : @anthonyrustan
-  ⚡ Twitter   : @anthony24729
-  ⚡ Github    : @anthonykid
+- ⚡ Instagram : @anthonyrustan
+- ⚡ Twitter   : @anthony24729
+- ⚡ Github    : @anthonykid
  
 ### Github Statistic
 <p align="left">

@@ -27,3 +27,4 @@ I'm currently active in contributing <a href="https://github.com/anthonykid">@an
 - Belajar Membuat Aplikasi Flutter untuk Pemula
 - Memulai Pemrograman Dengan Dart 
 - Belajar Membuat Augmented Reality dengan Lens Studio 
+- Belajar Dasar Git dan GitHub

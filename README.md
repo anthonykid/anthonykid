@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm AnthonyKid.
 
-I'm An independent Software Engineer, hardworking person, and i really like to try all the new things! I've learned Flutter, Kotlin, Java(Mobile), Java, Python, PHP, HTML, CSS, and I also try to make a game using unity.
+I'm An independent Software Engineer, hardworking person, and i really like to try all the new things! I've learned Flutter, Kotlin, Java(Mobile), Java, Python, PHP, HTML, CSS, Snapchat AR, and I also try to make a game using unity.
 
 I'm currently active in contributing <a href="https://github.com/anthonykid">@anthonykid</a> I'm trying to make a progress everyday even if it is a small step.
 
@@ -30,3 +30,6 @@ I'm currently active in contributing <a href="https://github.com/anthonykid">@an
 - <a href="dicoding.com/certificates/MRZMKDWR3PYQ">Belajar Dasar Git dan GitHub </a>
 - <a href="dicoding.com/certificates/N9ZOE55D8XG5">Belajar Prinsip Pemograman SOLID </a>
 - <a href="dicoding.com/certificates/81P22829OPOY">Cloud Practioner Essentials (Belajar Dasar AWS Cloud) </a>
+
+### Winning Challenge :
+- <a href="https://www.dicoding.com/users/anthonykid/challenges">Snapchat AR Creator Independence Day Series</a>

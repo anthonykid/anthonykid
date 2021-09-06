@@ -30,6 +30,8 @@ I'm currently active in contributing <a href="https://github.com/anthonykid">@an
 - <a href="dicoding.com/certificates/MRZMKDWR3PYQ">Belajar Dasar Git dan GitHub </a>
 - <a href="dicoding.com/certificates/N9ZOE55D8XG5">Belajar Prinsip Pemograman SOLID </a>
 - <a href="dicoding.com/certificates/81P22829OPOY">Cloud Practioner Essentials (Belajar Dasar AWS Cloud) </a>
+- <a href="dicoding.com/certificates/L4PQ31482PO1">Architecting on AWS (Membangun Arsitektur Cloud di AWS) </a>
+- <a href="dicoding.com/certificates/QLZ9173WDP5D">Memulai Pemrograman Dengan Java </a>
 
 ### Winning Challenge :
 - <a href="https://www.dicoding.com/users/anthonykid/challenges">Snapchat AR Creator Independence Day Series</a>

@@ -36,6 +36,7 @@ I'm currently active in contributing <a href="https://github.com/anthonykid">@an
 - <a href="dicoding.com/certificates/N9ZOE55D8XG5">Belajar Prinsip Pemograman SOLID </a>
 - <a href="dicoding.com/certificates/N9ZODWNQ8PG5">Belajar Membuat Aplikasi Flutter untuk Pemula </a>
 - <a href="dicoding.com/certificates/6RPN8DV25Z2M">Belajar Membuat Augmented Reality dengan Lens Studio </a>
+- <a href="dicoding.com/certificates/MEPJL2DJ6Z3V">Belajar Membuat Aplikasi Android untuk Pemula </a>
 - <a href="dicoding.com/certificates/MEPJLQ74JZ3V">Pengenalan ke Logika Pemrograman (Programming Logic 101)</a>
 - <a href="dicoding.com/certificates/0LZ03RW3NZ65">Pengenalan Data pada Pemrograman (Data 101) </a>
 

@@ -30,6 +30,7 @@ I'm currently active in contributing <a href="https://github.com/anthonykid">@an
 - <a href="dicoding.com/certificates/1OP8LYW98ZQK">Memulai Pemrograman Dengan Dart </a>
 - <a href="dicoding.com/certificates/1OP8L488VZQK">Memulai Pemrograman Dengan Python </a>
 - <a href="dicoding.com/certificates/QLZ9173WDP5D">Memulai Pemrograman Dengan Java </a>
+- <a href="dicoding.com/certificates/GRX5KW5Q2Z0M">Memulai Pemrograman Dengan Kotlin </a>
 - <a href="dicoding.com/certificates/JLX139NM6P72">Belajar Dasar Pemrograman JavaScript </a>
 - <a href="dicoding.com/certificates/N9ZOE9QERXG5">Belajar Dasar Visualisasi Data </a>
 - <a href="dicoding.com/certificates/MRZMKDWR3PYQ">Belajar Dasar Git dan GitHub </a>

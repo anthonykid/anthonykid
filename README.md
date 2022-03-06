@@ -34,6 +34,7 @@ I'm currently active in contributing <a href="https://github.com/anthonykid">@an
 - <a href="dicoding.com/certificates/JLX139NM6P72">Belajar Dasar Pemrograman JavaScript </a>
 - <a href="dicoding.com/certificates/N9ZOE9QERXG5">Belajar Dasar Visualisasi Data </a>
 - <a href="dicoding.com/certificates/MRZMKDWR3PYQ">Belajar Dasar Git dan GitHub </a>
+- <a href="https://www.dicoding.com/certificates/53XEWG8ORXRN">Belajar Dasar Google Cloud </a>
 - <a href="dicoding.com/certificates/N9ZOE55D8XG5">Belajar Prinsip Pemograman SOLID </a>
 - <a href="dicoding.com/certificates/N9ZODWNQ8PG5">Belajar Membuat Aplikasi Flutter untuk Pemula </a>
 - <a href="dicoding.com/certificates/6RPN8DV25Z2M">Belajar Membuat Augmented Reality dengan Lens Studio </a>

@@ -25,12 +25,7 @@ I'm currently active in contributing <a href="https://github.com/anthonykid">@an
 
 ### Some Certificate :
 - <a href="https://www.dicoding.com/certificates/L4PQ31482PO1">Architecting on AWS (Membangun Arsitektur Cloud di AWS) </a>
-- <a href="https://www.dicoding.com/certificates/81P22829OPOY">Cloud Practioner Essentials (Belajar Dasar AWS Cloud) </a>
-- <a href="https://www.dicoding.com/certificates/RVZK1WEVMPD5">Memulai Pemrograman Dengan C </a>
-- <a href="https://www.dicoding.com/certificates/1OP8LYW98ZQK">Memulai Pemrograman Dengan Dart </a>
-- <a href="https://www.dicoding.com/certificates/1OP8L488VZQK">Memulai Pemrograman Dengan Python </a>
-- <a href="https://www.dicoding.com/certificates/QLZ9173WDP5D">Memulai Pemrograman Dengan Java </a>
-- <a href="https://www.dicoding.com/certificates/GRX5KW5Q2Z0M">Memulai Pemrograman Dengan Kotlin </a>
+- <a href="https://d2qv16rycic4zo.cloudfront.net/pdfs/signed-14844ac6-d588-4935-8a40-93c8d74243e7.pdf">Android With Java Native (Hacktiv8) </a>
 - <a href="https://www.dicoding.com/certificates/JLX139NM6P72">Belajar Dasar Pemrograman JavaScript </a>
 - <a href="https://www.dicoding.com/certificates/N9ZOE9QERXG5">Belajar Dasar Visualisasi Data </a>
 - <a href="https://www.dicoding.com/certificates/MRZMKDWR3PYQ">Belajar Dasar Git dan GitHub </a>
@@ -40,10 +35,14 @@ I'm currently active in contributing <a href="https://github.com/anthonykid">@an
 - <a href="https://www.dicoding.com/certificates/6RPN8DV25Z2M">Belajar Membuat Augmented Reality dengan Lens Studio </a>
 - <a href="https://www.dicoding.com/certificates/MEPJL2DJ6Z3V">Belajar Membuat Aplikasi Android untuk Pemula </a>
 - <a href="https://www.dicoding.com/certificates/QLZ919W09P5D">Belajar Membuat Aplikasi Back-End untuk Pemula </a>
+- <a href="https://www.dicoding.com/certificates/81P22829OPOY">Cloud Practioner Essentials (Belajar Dasar AWS Cloud) </a>
+- <a href="https://www.dicoding.com/certificates/RVZK1WEVMPD5">Memulai Pemrograman Dengan C </a>
+- <a href="https://www.dicoding.com/certificates/1OP8LYW98ZQK">Memulai Pemrograman Dengan Dart </a>
+- <a href="https://www.dicoding.com/certificates/1OP8L488VZQK">Memulai Pemrograman Dengan Python </a>
+- <a href="https://www.dicoding.com/certificates/QLZ9173WDP5D">Memulai Pemrograman Dengan Java </a>
+- <a href="https://www.dicoding.com/certificates/GRX5KW5Q2Z0M">Memulai Pemrograman Dengan Kotlin </a>
 - <a href="https://www.dicoding.com/certificates/MEPJLQ74JZ3V">Pengenalan ke Logika Pemrograman (Programming Logic 101)</a>
 - <a href="https://www.dicoding.com/certificates/0LZ03RW3NZ65">Pengenalan Data pada Pemrograman (Data 101) </a>
-
-
 
 ### Winning Challenge :
 - <a href="https://www.dicoding.com/users/anthonykid/challenges">Snapchat AR Creator Independence Day Series</a>
